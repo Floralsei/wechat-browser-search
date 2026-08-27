@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号浏览器搜索"
+  short_description: "使用独立无登录 Edge 搜索并读取微信公众号原文"
+  default_prompt: "搜索微信公众号文章，并只返回已验证的 mp.weixin.qq.com 原文信源。"
